@@ -52,3 +52,32 @@ Made with 💛 by **Meenakshi**
 
 ## 🗂️ Folder Structure
 
+js-projects/
+│
+├── index.html                 # Main page listing all JS projects
+├── style.css                  # Styling for main project page
+│
+├── Digital-Clock/            # Project 1
+│   └── index.html
+│
+├── Counter-App/              # Project 2
+│   └── index.html
+│
+├── To-Do-List-Basic/         # Project 3
+│   └── index.html
+│
+├── Color-Flipper/            # Project 4
+│   └── index.html
+│
+├── Random-Quote-Generator/   # Project 5
+│   └── index.html
+│
+├── Image-Slider/             # Project 6
+│   └── index.html
+│
+├── BMI-Calculator/           # Project 7
+│   └── index.html
+│
+└── (Coming Soon)
+    ├── Temperature Converter/
+    └── Weather App (API)/
