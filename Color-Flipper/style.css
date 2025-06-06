@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.4s ease;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  background: rgba(255,255,255,0.8);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#flip-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #333;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#flip-btn:hover {
+  background-color: #555;
+}
+
+#color-code {
+  color: #333;
+  font-weight: bold;
+}
